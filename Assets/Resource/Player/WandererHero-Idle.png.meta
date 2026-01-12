@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e314ea90e300af746afa6e62372b4c7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 234726755609256238
+    second: WandererHero-Idle_0
+  - first:
+      213: 4309568413554059874
+    second: WandererHero-Idle_1
+  - first:
+      213: -2328873846755213929
+    second: WandererHero-Idle_2
+  - first:
+      213: -6323371452258984072
+    second: WandererHero-Idle_3
+  - first:
+      213: 8700542420870984127
+    second: WandererHero-Idle_4
+  - first:
+      213: 9029851019669392132
+    second: WandererHero-Idle_5
+  - first:
+      213: -344137619004895789
+    second: WandererHero-Idle_6
+  - first:
+      213: 4723918210474424093
+    second: WandererHero-Idle_7
+  - first:
+      213: 6348047748182804844
+    second: WandererHero-Idle_8
+  - first:
+      213: 7328767190644574249
+    second: WandererHero-Idle_9
+  - first:
+      213: 5692220363809439811
+    second: WandererHero-Idle_10
+  - first:
+      213: -5004470404235698580
+    second: WandererHero-Idle_11
+  - first:
+      213: 5720326092526849310
+    second: WandererHero-Idle_12
+  - first:
+      213: 4233066491055846132
+    second: WandererHero-Idle_13
+  - first:
+      213: -1414616337366843346
+    second: WandererHero-Idle_14
+  - first:
+      213: 5243031071332365645
+    second: WandererHero-Idle_15
+  - first:
+      213: 3070412239012509164
+    second: WandererHero-Idle_16
+  - first:
+      213: 6320230260331844698
+    second: WandererHero-Idle_17
+  - first:
+      213: 8440048881488501113
+    second: WandererHero-Idle_18
+  - first:
+      213: -2559991684301636628
+    second: WandererHero-Idle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WandererHero-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21ae579dbae14300800000000000000
+      internalID: 234726755609256238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a222993a9aecb30800000000000000
+      internalID: 4309568413554059874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d3575439d2eafd0800000000000000
+      internalID: -2328873846755213929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd145ba2fde38a0800000000000000
+      internalID: -6323371452258984072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb17b3dfb398eb870800000000000000
+      internalID: 8700542420870984127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bc71209a9705d70800000000000000
+      internalID: 9029851019669392132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd4d59a8a0693bf0800000000000000
+      internalID: -344137619004895789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17b353859abe8140800000000000000
+      internalID: 4723918210474424093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6987a72bcbc81850800000000000000
+      internalID: 6348047748182804844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92848ef2ee205b560800000000000000
+      internalID: 7328767190644574249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3404b102344defe40800000000000000
+      internalID: 5692220363809439811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e5392aeac8c8ab0800000000000000
+      internalID: -5004470404235698580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0678064ea26f40800000000000000
+      internalID: 5720326092526849310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f23efdbb8fdeba30800000000000000
+      internalID: 4233066491055846132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2009c5afe54e5ce0800000000000000
+      internalID: -1414616337366843346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45f9190bfcf2c840800000000000000
+      internalID: 5243031071332365645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce53a54e9ab4c9a20800000000000000
+      internalID: 3070412239012509164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5411cd8fe7f5b750800000000000000
+      internalID: 6320230260331844698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_18
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9791e0c8db3112570800000000000000
+      internalID: 8440048881488501113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandererHero-Idle_19
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb3f356025197cd0800000000000000
+      internalID: -2559991684301636628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WandererHero-Idle_0: 234726755609256238
+      WandererHero-Idle_1: 4309568413554059874
+      WandererHero-Idle_10: 5692220363809439811
+      WandererHero-Idle_11: -5004470404235698580
+      WandererHero-Idle_12: 5720326092526849310
+      WandererHero-Idle_13: 4233066491055846132
+      WandererHero-Idle_14: -1414616337366843346
+      WandererHero-Idle_15: 5243031071332365645
+      WandererHero-Idle_16: 3070412239012509164
+      WandererHero-Idle_17: 6320230260331844698
+      WandererHero-Idle_18: 8440048881488501113
+      WandererHero-Idle_19: -2559991684301636628
+      WandererHero-Idle_2: -2328873846755213929
+      WandererHero-Idle_3: -6323371452258984072
+      WandererHero-Idle_4: 8700542420870984127
+      WandererHero-Idle_5: 9029851019669392132
+      WandererHero-Idle_6: -344137619004895789
+      WandererHero-Idle_7: 4723918210474424093
+      WandererHero-Idle_8: 6348047748182804844
+      WandererHero-Idle_9: 7328767190644574249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
