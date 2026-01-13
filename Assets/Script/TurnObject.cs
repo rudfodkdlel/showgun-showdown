@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class TurnObject : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class TurnObject : MonoBehaviour
     // 몇번째 cell에 있는지
     protected int floorIdx = 2;
 
-    [SerializeField] private Floor floor;
+    [SerializeField] protected Floor floor;
 
     [Header("offset")]
     [SerializeField] protected bool useInspectorOffset;
@@ -27,7 +28,7 @@ public class TurnObject : MonoBehaviour
         SpriteRenderer.transform.localScale = s;
     }
 
-    public void MovePos()
+    public void ChangePos()
     {
         Vector3 newPos = floor.GetCellPos(floorIdx);
 
@@ -36,16 +37,33 @@ public class TurnObject : MonoBehaviour
         transform.position = newPos;
     }
 
-    public void MovePos(int startIdx, int endIdx, float duration)
+    protected IEnumerator MoveCorotine(Vector3 start, Vector3 end, float duration, float jumpHeight = 0)
     {
-        if (startIdx == endIdx)
-            return;
 
-        Vector3 dir = floor.GetCellPos(endIdx) - floor.GetCellPos(startIdx);
-        
 
-        
+        float elapsed = 0f;
 
+        while (elapsed < duration)
+        {
+            // 선형보간으로 일단
+
+            elapsed += Time.deltaTime;
+            float t = elapsed / duration;
+
+            
+            Vector3 pos = Vector3.Lerp(start, end, t);
+
+            // 포물선 점프 
+            float yOffset = 4f * jumpHeight * t * (1f - t);
+
+            pos.y += yOffset;
+
+            transform.position = pos;
+            yield return null;
+        }
+
+        // 정확한 위치 보정
+        transform.position = end;
     }
 
 }
